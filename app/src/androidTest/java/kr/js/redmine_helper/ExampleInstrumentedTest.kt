@@ -1,4 +1,4 @@
-package com.js.redmine_helper
+package kr.js.redmine_helper
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

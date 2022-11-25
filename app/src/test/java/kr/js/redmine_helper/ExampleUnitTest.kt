@@ -1,4 +1,4 @@
-package com.js.redmine_helper
+package kr.js.redmine_helper
 
 import org.junit.Test
 
