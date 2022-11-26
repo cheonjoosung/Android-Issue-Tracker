@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!--  공통 -->
+    <string name="app_name">Issue Tracker Helper</string>
+
+    <!--  로그인 -->
+    <string name="id">ID</string>
+    <string name="pw">PW</string>
+    <string name="login">로그인</string>
+    <string name="id_hint">ID를 입력해주세요.</string>
+    <string name="pw_hint">PW를 입력해주세요.</string>
+    <string name="login_information_save">로그인 정보 기억하기</string>
+    <string name="content_description_logo">로고</string>
+
+    <!--  탭 -->
+    <string name="title_home">홈</string>
+
+    <!--  탭 -->
+    <string name="title_dashboard">대쉬보드</string>
+
+    <!--  탭 -->
+    <string name="title_notifications">알림</string>
+
+</resources>
