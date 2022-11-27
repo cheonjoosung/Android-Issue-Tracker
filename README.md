@@ -15,7 +15,7 @@
 - not yet
 
 ## Reference (참조)
-- not yet
+- [Redmine API](https://www.redmine.org/projects/redmine/wiki/rest_api)
 
 ## License (라이센스)
 - not yet
