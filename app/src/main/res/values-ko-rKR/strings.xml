@@ -13,13 +13,13 @@
     <string name="login_information_save">로그인 정보 기억하기</string>
     <string name="content_description_logo">로고</string>
 
-    <!--  탭 -->
-    <string name="title_home">홈</string>
+    <!--  이슈 목록 탭 -->
+    <string name="title_issues">이슈들</string>
 
-    <!--  탭 -->
+    <!--  이슈 생성 탭 -->
+    <string name="title_new_issue">이슈 생성</string>
+
+    <!--  대쉬보드 탭 -->
     <string name="title_dashboard">대쉬보드</string>
-
-    <!--  탭 -->
-    <string name="title_notifications">알림</string>
 
 </resources>

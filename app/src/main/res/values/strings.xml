@@ -12,12 +12,14 @@
     <string name="login_information_save">Save login information</string>
     <string name="content_description_logo">Logo</string>
 
-    <!--  탭 -->
-    <string name="title_home">Home</string>
+    <!--  이슈 목록 탭 -->
+    <string name="title_issues">Issues</string>
 
-    <!--  탭 -->
+    <!--  이슈 생성 탭 -->
+    <string name="title_new_issue">New Issue</string>
+
+    <!--  대쉬보드 탭 -->
     <string name="title_dashboard">Dashboard</string>
 
-    <!--  탭 -->
-    <string name="title_notifications">Notifications</string>
+    <!--  설정 탭 -->
 </resources>
