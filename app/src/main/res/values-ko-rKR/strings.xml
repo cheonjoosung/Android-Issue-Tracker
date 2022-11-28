@@ -22,4 +22,6 @@
     <!--  대쉬보드 탭 -->
     <string name="title_dashboard">대쉬보드</string>
 
+    <!--  설정 탭 -->
+    <string name="title_setting">설정</string>
 </resources>
