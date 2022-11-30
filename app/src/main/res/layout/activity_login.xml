@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:windowSoftInputMode="adjustPan"
-    tools:context=".ui.login.LoginActivity">
+    tools:context="kr.co.js.issuetrackerhelper.ui.login.LoginActivity">
 
     <ImageView
         android:id="@+id/iv_logo"
@@ -37,6 +37,28 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:text="@string/url" />
+
+            <EditText
+                android:id="@+id/et_url"
+                android:inputType="textUri"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24dp"
+                android:hint="@string/url_hint"
+                android:autofillHints="s" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:text="@string/id" />
 
             <EditText
@@ -44,7 +66,7 @@
                 android:inputType="text"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="24dp"
+                android:layout_marginStart="28dp"
                 android:hint="@string/id_hint"
                 android:autofillHints="username" />
 
@@ -65,7 +87,7 @@
                 android:id="@+id/et_pw"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="16dp"
+                android:layout_marginStart="20dp"
                 android:hint="@string/pw_hint"
                 android:inputType="textPassword"
                 android:autofillHints=""/>

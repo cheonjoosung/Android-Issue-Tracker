@@ -7,9 +7,11 @@
     <!--  로그인 -->
     <string name="id">ID</string>
     <string name="pw">PW</string>
+    <string name="url">Url</string>
     <string name="login">로그인</string>
     <string name="id_hint">ID를 입력해주세요.</string>
     <string name="pw_hint">PW를 입력해주세요.</string>
+    <string name="url_hint">레드마인 or 지라의 주소를 입력후제숑.</string>
     <string name="login_information_save">로그인 정보 기억하기</string>
     <string name="content_description_logo">로고</string>
 
