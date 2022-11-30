@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:windowSoftInputMode="adjustPan"
-    tools:context="kr.co.js.issuetrackerhelper.ui.login.LoginActivity">
+    tools:context="kr.co.js.issuetracker.ui.login.LoginActivity">
 
     <ImageView
         android:id="@+id/iv_logo"

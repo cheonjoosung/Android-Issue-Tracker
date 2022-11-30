@@ -1,4 +1,4 @@
-package kr.co.js.issuetrackerhelper.ui.login
+package kr.co.js.issuetracker.ui.login
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity

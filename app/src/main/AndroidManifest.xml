@@ -14,7 +14,7 @@
         tools:targetApi="31">
 
         <activity
-            android:name="kr.co.js.issuetrackerhelper.ui.login.LoginActivity"
+            android:name="kr.co.js.issuetracker.ui.login.LoginActivity"
             android:exported="true">
             <meta-data
                 android:name="android.app.lib_name"
