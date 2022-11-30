@@ -1,7 +1,7 @@
 
 <resources>
     <!--  공통 -->
-    <string name="app_name">Issue Tracker Helper</string>
+    <string name="app_name">Issue Tracker</string>
 
     <!--  로그 -->
     <string name="id">ID</string>

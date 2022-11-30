@@ -1,4 +1,4 @@
-package kr.co.js.issuetrackerhelper
+package kr.co.js.issuetracker
 
 import org.junit.Test
 

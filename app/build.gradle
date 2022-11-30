@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace 'kr.co.js.issuetrackerhelper'
-    compileSdk 32
+    namespace 'kr.co.js.issuetracker'
+    compileSdk 33
 
     defaultConfig {
-        applicationId "kr.co.js.issuetrackerhelper"
+        applicationId "kr.co.js.issuetracker"
         minSdk 21
-        targetSdk 32
+        targetSdk 33
         versionCode 1
         versionName "1.0"
 

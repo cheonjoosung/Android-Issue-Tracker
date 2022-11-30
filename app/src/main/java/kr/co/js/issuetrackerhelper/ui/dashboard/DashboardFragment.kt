@@ -1,4 +1,4 @@
-package kr.co.js.issuetrackerhelper.ui.dashboard
+package kr.co.js.issuetracker.ui.dashboard
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import kr.co.js.issuetrackerhelper.databinding.FragmentDashboardBinding
+import kr.co.js.issuetracker.databinding.FragmentDashboardBinding
 
 class DashboardFragment : Fragment() {
 

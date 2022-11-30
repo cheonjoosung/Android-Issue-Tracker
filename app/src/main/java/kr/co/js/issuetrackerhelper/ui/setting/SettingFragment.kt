@@ -1,4 +1,4 @@
-package kr.co.js.issuetrackerhelper.ui.setting
+package kr.co.js.issuetracker.ui.setting
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import kr.co.js.issuetrackerhelper.databinding.FragmentSettingBinding
+import kr.co.js.issuetracker.databinding.FragmentSettingBinding
 
 class SettingFragment : Fragment() {
 

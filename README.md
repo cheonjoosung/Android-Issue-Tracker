@@ -1,4 +1,4 @@
-# Android Issue Tracker Helper
+# Android Issue Tracker
 
 ## Stack & Skill (스택 기술)
 - Kotlin & Android

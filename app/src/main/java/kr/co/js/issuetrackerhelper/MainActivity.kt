@@ -1,4 +1,4 @@
-package kr.co.js.issuetrackerhelper
+package kr.co.js.issuetracker
 
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView
@@ -7,7 +7,7 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
-import kr.co.js.issuetrackerhelper.databinding.ActivityMainBinding
+import kr.co.js.issuetracker.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

@@ -7,25 +7,25 @@
 
     <fragment
         android:id="@+id/navigation_issues"
-        android:name="kr.co.js.issuetrackerhelper.ui.issues.IssuesFragment"
+        android:name="kr.co.js.issuetracker.ui.issues.IssuesFragment"
         android:label="@string/title_issues"
         tools:layout="@layout/fragment_issues" />
 
     <fragment
         android:id="@+id/navigation_new_issue"
-        android:name="kr.co.js.issuetrackerhelper.ui.new.NewIssueFragment"
+        android:name="kr.co.js.issuetracker.ui.new.NewIssueFragment"
         android:label="@string/title_new_issue"
         tools:layout="@layout/fragment_new_issue" />
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="kr.co.js.issuetrackerhelper.ui.dashboard.DashboardFragment"
+        android:name="kr.co.js.issuetracker.ui.dashboard.DashboardFragment"
         android:label="@string/title_dashboard"
         tools:layout="@layout/fragment_dashboard" />
 
     <fragment
         android:id="@+id/navigation_setting"
-        android:name="kr.co.js.issuetrackerhelper.ui.setting.SettingFragment"
+        android:name="kr.co.js.issuetracker.ui.setting.SettingFragment"
         android:label="@string/title_setting"
         tools:layout="@layout/fragment_setting" />
 

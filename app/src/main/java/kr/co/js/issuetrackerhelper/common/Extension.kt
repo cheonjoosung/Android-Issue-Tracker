@@ -1,4 +1,4 @@
-package kr.co.js.issuetrackerhelper.common
+package kr.co.js.issuetracker.common
 
 import android.view.View
 

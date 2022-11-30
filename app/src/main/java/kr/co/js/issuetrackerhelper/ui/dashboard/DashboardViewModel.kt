@@ -1,4 +1,4 @@
-package kr.co.js.issuetrackerhelper.ui.dashboard
+package kr.co.js.issuetracker.ui.dashboard
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
