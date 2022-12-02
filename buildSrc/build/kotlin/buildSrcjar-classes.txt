@@ -1,1 +1,1 @@
-C:\workspace_android\Android-Issue-Tracker\buildSrc\build\classes\kotlin\main\AndroidX.class;C:\workspace_android\Android-Issue-Tracker\buildSrc\build\classes\kotlin\main\Google.class
+/Users/cjswntjd/Desktop/dev/android/Android-Issue-Tracker/buildSrc/build/classes/kotlin/main/AndroidX.class:/Users/cjswntjd/Desktop/dev/android/Android-Issue-Tracker/buildSrc/build/classes/kotlin/main/Google.class
