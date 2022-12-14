@@ -3,7 +3,7 @@
     <!--  공통 -->
     <string name="app_name">Issue Tracker</string>
 
-    <!--  로그 -->
+    <!--  로그인 -->
     <string name="id">ID</string>
     <string name="pw">PW</string>
     <string name="url">Url</string>
@@ -13,6 +13,7 @@
     <string name="url_hint">Enter your Redmine Or Jira Url.</string>
     <string name="login_information_save">Save login information</string>
     <string name="content_description_logo">Logo</string>
+    <string name="login_info_error">%s Empty</string>
 
     <!--  이슈 목록 탭 -->
     <string name="title_issues">Issues</string>

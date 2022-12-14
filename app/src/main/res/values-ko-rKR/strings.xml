@@ -14,6 +14,7 @@
     <string name="url_hint">레드마인 or 지라의 주소를 입력후제숑.</string>
     <string name="login_information_save">로그인 정보 기억하기</string>
     <string name="content_description_logo">로고</string>
+    <string name="login_info_error">%s 공백입니다.</string>
 
     <!--  이슈 목록 탭 -->
     <string name="title_issues">이슈들</string>
